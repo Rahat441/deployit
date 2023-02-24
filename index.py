@@ -5,17 +5,17 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-import seaborn as sns
+# import seaborn as sns
 import datetime
 
 
 
-from sklearn.linear_model import LinearRegression, LogisticRegression
-from sklearn.ensemble import RandomForestRegressor
+# from sklearn.linear_model import LinearRegression, LogisticRegression
+# from sklearn.ensemble import RandomForestRegressor
 
-from sklearn.model_selection import train_test_split
+# from sklearn.model_selection import train_test_split
 
-from sklearn import metrics
+# from sklearn import metrics
 
 #abbrevation
 def us_state_to_abbrev(string):
